@@ -1,4 +1,4 @@
-# Nebulus-game
+# Nebulus
 
 A game exploring the line that separates human and robot.
 

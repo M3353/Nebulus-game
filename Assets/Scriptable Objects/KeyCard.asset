@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7625d74b900e4640a876e263a21d96b, type: 3}
+  m_Name: KeyCard
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7351910759044598772, guid: 23de49e0f3a45414c88353ffe8edb18b, type: 3}
+  type: 1
+  description: An image of me putting myself around... kids. It seems to also allow
+    me access to certain doors

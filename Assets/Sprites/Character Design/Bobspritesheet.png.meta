@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 8792af20c40839f4aa5c56fb0e91f217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1227525850527378429
+    second: Bobspritesheet_0
+  - first:
+      213: 5463514093921487479
+    second: Bobspritesheet_1
+  - first:
+      213: -8289801055863067770
+    second: Bobspritesheet_2
+  - first:
+      213: -5745562460562668187
+    second: Bobspritesheet_3
+  - first:
+      213: -5372056683955293405
+    second: Bobspritesheet_4
+  - first:
+      213: 4780463968525671147
+    second: Bobspritesheet_5
+  - first:
+      213: -1063456591516831928
+    second: Bobspritesheet_6
+  - first:
+      213: 7265228361604701284
+    second: Bobspritesheet_7
+  - first:
+      213: 2445512958438410116
+    second: Bobspritesheet_8
+  - first:
+      213: 8655161141365936658
+    second: Bobspritesheet_9
+  - first:
+      213: -4992991063676091434
+    second: Bobspritesheet_10
+  - first:
+      213: 6395310486319530991
+    second: Bobspritesheet_11
+  - first:
+      213: 2101664458430765253
+    second: Bobspritesheet_12
+  - first:
+      213: -4979416324730263986
+    second: Bobspritesheet_13
+  - first:
+      213: 788263784778305783
+    second: Bobspritesheet_14
+  - first:
+      213: 2242593103533686503
+    second: Bobspritesheet_15
+  - first:
+      213: 8639921238313608787
+    second: Bobspritesheet_16
+  - first:
+      213: 429370070013025454
+    second: Bobspritesheet_17
+  - first:
+      213: 2168384540923927708
+    second: Bobspritesheet_18
+  - first:
+      213: 5679049617505082630
+    second: Bobspritesheet_19
+  - first:
+      213: -5396618888242246739
+    second: Bobspritesheet_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bobspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d4be1eb3f6fee0800000000000000
+      internalID: -1227525850527378429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 526
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac7891f1d42db40800000000000000
+      internalID: 5463514093921487479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 526
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68baf966cd5b4fc80800000000000000
+      internalID: -8289801055863067770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 526
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565c7572269a340b0800000000000000
+      internalID: -5745562460562668187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 526
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f49788ee9275b0800000000000000
+      internalID: -5372056683955293405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bead681c6ae975240800000000000000
+      internalID: 4780463968525671147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f679c4dd7dd31f0800000000000000
+      internalID: -1063456591516831928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9a89b3b643d460800000000000000
+      internalID: 7265228361604701284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487065d241530f120800000000000000
+      internalID: 2445512958438410116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21291e8733f4d1870800000000000000
+      internalID: 8655161141365936658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d303e2e41555bab0800000000000000
+      internalID: -4992991063676091434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe30865e005b0c850800000000000000
+      internalID: 6395310486319530991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 264
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c854d990bc9a2d10800000000000000
+      internalID: 2101664458430765253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46eba71c3f85eab0800000000000000
+      internalID: -4979416324730263986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f014016cb970fa00800000000000000
+      internalID: 788263784778305783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eebddfbb8a4f1f10800000000000000
+      internalID: 2242593103533686503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562909079a27e770800000000000000
+      internalID: 8639921238313608787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9f44cdcd65f500800000000000000
+      internalID: 429370070013025454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c183a5046a71e10800000000000000
+      internalID: 2168384540923927708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d5539c98900de40800000000000000
+      internalID: 5679049617505082630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2
+        width: 127
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4822b6bb5b15b0800000000000000
+      internalID: -5396618888242246739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
